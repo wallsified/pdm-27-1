@@ -1,2 +1,5 @@
-# pdm-27-1
-Las prácticas y tareas de la materia "Programación y Dispositivos Móviles", Semestre 27-1, de la Facultad de Ciencias, UNAM
+# Proyectos y Tareas para Programación de Dispositivos Móviles (27-1)
+
+| Alumno                      | No. de Cuenta |
+| --------------------------- | ------------- |
+| Paredes Zamudio Luis Daniel | 318159926     |
